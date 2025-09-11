@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShuAnning
 - 👀 I’m interested in doing nothing
-- 🌱 I’m currently learning Verilog
+- 🌱 I’m currently learning a lot of things(Verilog)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me： please email me at 1040649221@qq.com
 - 😄 Pronouns: ...
