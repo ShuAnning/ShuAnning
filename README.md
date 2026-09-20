@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShuAnning
-- 👀 I’m interested in doing nothing
-- 🌱 I’m currently learning a lot of things(Verilog)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me： please email me at 1040649221@qq.com
+- 👋 Hi, I’m @ShuAnning.
+- 👀 I’m interested in doing nothing.
+- 🌱 I’m currently learning a lot of things, like growing plants, playing the piano, cooking, AI chip and DRAM...
+- 💞️ I’m looking to collaborate on anything you'd like to work on with me, such as trying delicious food, traveling and so on.
+- 📫 How to reach me： please email me at 1040649221@qq.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
